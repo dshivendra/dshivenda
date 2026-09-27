@@ -31,7 +31,7 @@ cloud platforms, and production-grade infrastructure automation.
 
 ## 👨💻 About Me
 
-I'm a **Backend & Platform Engineer with 4+ years of experience** building production-grade APIs, distributed systems, multi-tenant SaaS platforms, cloud-native services, and infrastructure automation.
+I'm a **Backend & Platform Engineer with 5+ years of experience** building production-grade APIs, distributed systems, multi-tenant SaaS platforms, cloud-native services, and infrastructure automation.
 
 ```text
 Backend Engineering       ████████████████████
