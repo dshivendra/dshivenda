@@ -534,33 +534,6 @@ flowchart LR
 
 ---
 
-## 🧰 Olly — Production Log Analysis CLI
-
-```mermaid
-flowchart LR
-
-    LOG["📄 Logs"]
-    STREAM["🌊 Stream"]
-    POOL["⚙️ Worker Pool"]
-    RULE["📋 Rules"]
-    AGG["📊 Aggregate"]
-    AI["🤖 RCA"]
-    OUT["🔍 Result"]
-
-    LOG --> STREAM --> POOL --> RULE --> AGG --> AI --> OUT
-
-    style POOL fill:#00add8,color:#fff
-    style RULE fill:#7c3aed,color:#fff
-    style AI fill:#ea580c,color:#fff
-```
-
-Built with:
-
-`Go` • `Cobra` • `Goroutines` • `Channels` • `Context Cancellation` • `YAML`
-
-Features bounded worker pools, streaming file processing, configurable rule detection, issue aggregation, and LLM-assisted root-cause analysis.
-
----
 
 # 🧪 Engineering Projects
 
