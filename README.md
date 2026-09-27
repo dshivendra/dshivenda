@@ -11,9 +11,6 @@ cloud platforms, and production-grade infrastructure automation.
 
 <br/>
 
-<a href="https://github.com/dshivendra">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/shivendra-dubey/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -770,30 +767,6 @@ Built backend capabilities including:
 | Timeout | Event-Driven | RabbitMQ | API Optimization |
 | Fault Isolation | API Gateway | Goroutines | Async Processing |
 | Graceful Failure | REST / WebSockets | Worker Pools | Rate Limiting |
-
-</div>
-
----
-
-# 📌 Recent GitHub Work
-
-<div align="center">
-
-<a href="https://github.com/dshivendra/job-find-self">
-<img src="https://img.shields.io/badge/Job_Find_Self-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/dshivendra/ai-agent-hub">
-<img src="https://img.shields.io/badge/AI_Agent_Hub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/dshivendra/python-genai-developer-assignment">
-<img src="https://img.shields.io/badge/Python_GenAI-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/dshivendra/lld">
-<img src="https://img.shields.io/badge/LLD-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
