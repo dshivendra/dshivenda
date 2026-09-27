@@ -17,9 +17,6 @@ cloud platforms, and production-grade infrastructure automation.
 <a href="https://www.linkedin.com/in/shivendra-dubey/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/dshivendra/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
 <a href="https://autoinfra.in">
   <img src="https://img.shields.io/badge/AutoInfra-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
