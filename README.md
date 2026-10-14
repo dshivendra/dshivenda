@@ -638,11 +638,11 @@ I write about engineering problems I've implemented or explored across backend s
 
 | 🇮🇳 India | 🇬🇧 London | 🇺🇸 New York | 🇺🇸 San Francisco |
 |:---:|:---:|:---:|:---:|
-| **1:31 AM IST** | **9:01 PM** | **4:01 PM** | **1:01 PM** |
+| **5:35 AM IST** | **1:05 AM** | **8:05 PM** | **5:05 PM** |
 
 | 🇦🇪 Dubai | 🇸🇬 Singapore | 🇦🇺 Sydney |
 |:---:|:---:|:---:|
-| **12:01 AM GST** | **4:01 AM SGT** | **7:01 AM** |
+| **4:05 AM GST** | **8:05 AM SGT** | **11:05 AM** |
 
 <!-- GLOBAL-TIME:END -->
 
